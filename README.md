@@ -7,7 +7,7 @@
 3. 统计功能，大概就是了解下BASH漏洞的概率，测试了下，差不多500个URL才出一个可利用的BASH漏洞的URL;
 4. 把具有漏洞的URL写入文件。
 
-#### 使用方法：python CVE-2014-6271.py -h 帮助文档
+- 使用方法：python CVE-2014-6271.py -h 帮助文档
 ```
 usage: python CVE-2014-6271.py -d google_search
        python CVE-2014-6271.py -u url -e command
